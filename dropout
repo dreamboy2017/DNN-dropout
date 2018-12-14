@@ -1,0 +1,11 @@
+# _*_ doding:utf-8 _*_
+import time
+import numpy as np
+import matplotlab.pyplot as plt
+from utils import *
+
+
+plt.rcParams['figure.figsize]=(10.0, 8.0)
+plt.rcParams['image.interpolation']="nearest"
+plt.rcParams['image.cmap']="gray"
+
